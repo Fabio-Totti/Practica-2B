@@ -3,7 +3,7 @@
 
 El programa consiste en la creación de un gráfico en el cual se representarán una serie sucesiva de figuras rectangulares, una superpuesta sobre otra sucesivamente, de manera en que formen un patrón semejante que podemos encontrar en algunas ilusiones ópticas. Para desarrollar dicho patrón solo se dispone de la creación de líneas, para cual sea diseñado un algoritmo que use como base este medio, es decir, haciendo uso de los puntos en los que se encuentren los vértices que generaran las líneas correspondientes a los lados de los polígonos formara dicho patron.
 
-# Codigo fuente usando Java y OpenGL.
+# Codigo fuente usando lenguaje java mediante el IDE de Netbeans Apache y OpenGL para la creación de los graficos.
 Se exportan las librerias correpondientes.
 
 ![Trazos - NetBeans IDE 8 2 10_09_2021 12_12_16 a  m](https://user-images.githubusercontent.com/72088585/132928257-2ab364d1-11ee-4737-9f50-6f514299282f.png)
